@@ -20,7 +20,7 @@ Este projeto foi desenvolvido como parte de um desafio para avaliação pela esc
 ## Links
 
 - **Planilha SheetMonkey:** https://api.sheetmonkey.io/form/6JLHaYFXswSHt1pxmM2NNb - 
-- **Link Netlify** desafiolandingpage195741.netlify.app
+- **Link Netlify** https://desafiolandingpage195741.netlify.app/
 
 ---
 
