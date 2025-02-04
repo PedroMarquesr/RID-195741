@@ -6,14 +6,7 @@ Este projeto foi desenvolvido como parte de um desafio para avaliação pela esc
 
 ---
 
-## 🔧 Funcionalidades
 
-- **Página Inicial:** Uma introdução sobre o escritório e seus serviços.
-- **Destaques:** Exibição dos principais números e realizações do escritório.
-- **Sobre Nós:** Informações detalhadas sobre a história e a experiência do escritório.
-- **Formulário de Contato:** Um formulário simples para os clientes solicitarem mais informações.
-
----
 
 ## 📊 Tecnologias Utilizadas
 
@@ -22,6 +15,12 @@ Este projeto foi desenvolvido como parte de um desafio para avaliação pela esc
 - **Google Fonts:** Tipografia personalizada.
 - **Flexbox e Grid:** Layout responsivo.
 - **SheetMonkey:** Gerenciamento dos dados do formulário.
+
+---
+## Links
+
+- **Planilha SheetMonkey:** https://api.sheetmonkey.io/form/6JLHaYFXswSHt1pxmM2NNb - 
+- **Link Netlify** desafiolandingpage195741.netlify.app
 
 ---
 
