@@ -1,0 +1,124 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Inter", sans-serif;
+}
+#topo {
+}
+header {
+  background-color: #303030;
+  color: #ffffff;
+  height: 400px;
+  padding-top: 106px;
+}
+
+header h1 {
+  padding-top: 72px;
+  padding-left: 62px;
+  font-weight: 600;
+  font-size: 60px;
+}
+
+header p {
+  padding-left: 62px;
+  padding-top: 20px;
+  font-size: 20px;
+}
+#destaques {
+  display: grid;
+  grid-auto-flow: column;
+  columns: auto;
+}
+#destaques div {
+  padding-left: 94px;
+}
+
+.paragrafo_destaque {
+  font-weight: bold;
+  font-size: 40px;
+  padding-top: 54px;
+}
+.subparagrafo_destaque {
+  padding-bottom: 66px;
+  font-size: 20px;
+}
+
+#sobre {
+  display: grid;
+  grid-auto-flow: column;
+  columns: auto;
+  margin-bottom: 92px;
+}
+
+.texto_sobre {
+  padding-top: 222px;
+  padding-right: 64px;
+  padding-left: 77px;
+
+  text-align: justify;
+}
+#sobre h1 {
+  font-size: 35px;
+  font-weight: 400px;
+  line-height: 30px;
+  padding-bottom: 25px;
+}
+
+#sobre p {
+  font-size: 20px;
+  line-height: 20px;
+}
+
+.imagem_sobre {
+  padding-right: 54px;
+}
+#formulario {
+  background-color: #303030;
+  height: 600px;
+  text-align: center;
+}
+#formulario h1 {
+  padding-top: 87px;
+  padding-bottom: 42px;
+  font-size: 32px;
+  font-weight: 700;
+  color: #ffffff;
+}
+#formulario form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+}
+#formulario form input {
+  width: 450px;
+  height: 60px;
+  border-radius: 10px;
+  padding-left: 30px;
+  font-size: 20px;
+  font-family: "Raleway", sans-serif;
+}
+
+#formulario form input:nth-child(2) {
+  margin-top: 20px;
+}
+#formulario form input:hover {
+  border: 2px solid #007bff;
+  background-color: #e0f7fa;
+}
+
+#formulario form button {
+  width: 280px;
+  height: 60px;
+  margin-top: 32px;
+  color: #ffffff;
+  background-color: #c07212;
+  border-radius: 10px;
+  font-size: 22px;
+}
+#formulario form button:hover {
+  background-color: #f5a962;
+  cursor: pointer;
+  transform: translateY(-5px);
+  transition-duration: 0.3s;
+}
