@@ -3,8 +3,7 @@
   padding: 0;
   font-family: "Inter", sans-serif;
 }
-#topo {
-}
+
 header {
   background-color: #303030;
   color: #ffffff;
@@ -49,24 +48,25 @@ header p {
   columns: auto;
   margin-bottom: 92px;
 }
-
 .texto_sobre {
-  padding-top: 222px;
-  padding-right: 64px;
-  padding-left: 77px;
-
+  padding-left: 54px;
+  padding-right: 54px;
   text-align: justify;
+  margin-top: auto;
+  margin-bottom: auto;
 }
-#sobre h1 {
-  font-size: 35px;
-  font-weight: 400px;
-  line-height: 30px;
-  padding-bottom: 25px;
-}
-
-#sobre p {
-  font-size: 20px;
+.texto_sobre h2 {
+  font-size: 40px;
+  font-weight: 500;
   line-height: 20px;
+
+  margin-bottom: 50px;
+}
+.texto_sobre p {
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 30px;
+  line-height: 30px;
 }
 
 .imagem_sobre {
