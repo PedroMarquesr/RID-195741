@@ -19,8 +19,9 @@ Este projeto foi desenvolvido como parte de um desafio para avaliação pela esc
 ---
 ## Links
 
-- **Planilha SheetMonkey:** https://api.sheetmonkey.io/form/6JLHaYFXswSHt1pxmM2NNb - 
+- **Planilha SheetMonkey:** https://docs.google.com/spreadsheets/d/11n3q0NTN34zFst6LQ4CUtoeaXFIYfbttwULKsSay20Q/edit?usp=sharing 
 - **Link Netlify** https://desafiolandingpage195741.netlify.app/
+  
 
 ---
 
